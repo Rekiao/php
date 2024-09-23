@@ -1,0 +1,5 @@
+
+.card-custom-infographic:hover{
+    background-color: green;
+    cursor: pointer;
+}
